@@ -1,0 +1,13 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+
+/doc
+/tmp
+/node_modules
+
+/installer/_build
+/installer/tmp
+
